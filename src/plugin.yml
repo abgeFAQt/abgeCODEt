@@ -1,0 +1,6 @@
+name: DevAthlon
+authors: [abgeFAQt, Creepah__] 
+version: 1.0
+main: de.abgecodet.devathlon.core.Devathlon
+commands:
+  orebattle:
